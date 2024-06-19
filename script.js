@@ -117,7 +117,7 @@ $(document).ready(function() {
         "Specialized Expertise: Certified in KTM LC4 engines, and trained by both Bajaj and KTM, ensuring superior knowledge and skills.",
         "Multibrand Service: Extensive experience servicing brands including KTM, Bajaj, Husqvarna, Aprilia, Yamaha, Hero, TVS, Royal Enfield (RE), Suzuki, Honda, Hyosung, Ola, and Ather.",
         "Comprehensive Maintenance: From routine periodic servicing to specialized repairs and diagnostics, we provide thorough and reliable maintenance solutions.",
-        "Whether you need routine servicing or complex repairs, trust [Your Business Name] to deliver exceptional service tailored to your motorcycle's needs."
+        "Whether you need routine servicing or complex repairs, trust 3ZERO CONCEPT'S to deliver exceptional service tailored to your motorcycle's needs."
     ];
 
     var index = 0;
