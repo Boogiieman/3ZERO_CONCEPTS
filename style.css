@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 .navbar{
     backdrop-filter: blur(10px); /* Adjust blur intensity as needed */
     background-color: rgba(255, 255, 255, 0.1); /* Adjust opacity as needed */
